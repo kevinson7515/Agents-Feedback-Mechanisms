@@ -5,7 +5,7 @@ This project lists the files related to the Feedback Mechanisms of LLM_based AI 
 
 ### Survey
 
-- [2023/08] A survey on large language model based autonomous agents | [[Paper]]([[2308.11432] A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432))
+- [2023/08] A survey on large language model based autonomous agents | [[Paper]]([[2308.11432\] A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432))
 - [2024/01] Agent AI: Surveying the Horizons of Multimodal Interaction | [[Paper]]([[2401.03568\] Agent AI: Surveying the Horizons of Multimodal Interaction](https://arxiv.org/abs/2401.03568))
 - [2023/08] Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies | [[Paper]]([[2308.03188\] Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies](https://arxiv.org/abs/2308.03188))
 - [2023/09] The rise and potential of large language model based agents: A survey | [[Paper]]([[2309.07864\] The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864))
