@@ -1,4 +1,4 @@
-# Feedback-Mechanisms-for-LLM_based-AI-Agents-Papers
+# Feedback-Mechanisms-for-LLM_based-AI-Agents
 This project lists the files related to the Feedback Mechanisms of LLM_based AI agents.
 
 ## Papers
