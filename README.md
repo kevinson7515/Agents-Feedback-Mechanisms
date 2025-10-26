@@ -63,7 +63,7 @@ Large language models (LLMs) are increasingly being adopted to develop general-p
 #### Multi-Agent Feedback
 
 - [2023/05] Improving Factuality and Reasoning in Language Models through Multiagent Debate | [[Paper]](https://arxiv.org/abs/2305.14325)
-- [2024/02] AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls | [[Paper]](https://arxiv.org/abs/2402.04253#:~:text=We introduce AnyTool%2C a large language model agent,vast array of tools in addressing user queries.)
+- [2024/02] AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls | [[Paper]]
 - [2023/08] InterAct: Exploring the Potentials of ChatGPT as a Cooperative Agent | [[Paper]](https://arxiv.org/abs/2308.01552)
 - [2023/04] ChatLLM Network: More brains, More intelligence | [[Paper]]
 - [2023/08] MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework | [[Paper]](https://arxiv.org/abs/2308.00352)
@@ -76,8 +76,8 @@ Large language models (LLMs) are increasingly being adopted to develop general-p
 - [2022/03] Training language models to follow instructions with human feedback | [[Paper]](https://arxiv.org/abs/2203.02155)
 - [2023/05] RL4F: Generating Natural Language Feedback with Reinforcement Learning for Repairing Model Outputs | [[Paper]](https://arxiv.org/abs/2305.08844)
 - [2019/02] Deep reinforcement learning from policy-dependent human feedback | [[Paper]](https://arxiv.org/abs/1902.04257)
-- [2024/07] PrefCLM: Enhancing Preference-based Reinforcement Learning with Crowdsourced Large Language Models | [[Paper]](https://arxiv.org/abs/2407.08213#:~:text=To address these challenges%2C we introduce PrefCLM%2C a,language models (LLMs) as simulated teachers in PbRL.)
-- [2017/09] Deep tamer: Interactive agent shaping in high-dimensional state spaces | [[Paper]](https://arxiv.org/abs/1709.10163#:~:text=In this paper%2C we do both%3A we propose,to learn complex tasks in just a sho)
+- [2024/07] PrefCLM: Enhancing Preference-based Reinforcement Learning with Crowdsourced Large Language Models | [[Paper]]
+- [2017/09] Deep tamer: Interactive agent shaping in high-dimensional state spaces | [[Paper]]
 - [2017/06] Deep reinforcement learning from human preferences | [[Paper]]
 - [2022/09] Improving alignment of dialogue agents via targeted human judgements | [[Paper]]
 - [2021/12] WebGPT: Browser-assisted question-answering with human feedback | [[Paper]](https://arxiv.org/abs/2112.09332)
@@ -90,12 +90,12 @@ Large language models (LLMs) are increasingly being adopted to develop general-p
 - [2024/03] SocialBench: Sociality Evaluation of Role-Playing Conversational Agents | [[Paper]](https://arxiv.org/abs/2403.13679)
 - [2023/08] Chateval: Towards better llm-based evaluators through multi-agent debate | [[Paper]](https://arxiv.org/abs/2308.07201)
 - [2024/10] Agent-as-a-judge: Evaluate agents with agents | [[Paper]]
-- [2023/08] AgentBench: Evaluating LLMs as Agents | [[Paper]](https://arxiv.org/abs/2308.03688#:~:text=We present AgentBench%2C a multi-dimensional evolving benchmark that,reasoning and decision-making abilities in a multi-turn ope)
+- [2023/08] AgentBench: Evaluating LLMs as Agents | [[Paper]]
 - [2020/10] ALFWorld: Aligning Text and Embodied Environments for Interactive Learning | [[Paper]](https://arxiv.org/abs/2010.03768)
 - [2022/09] Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering | [[Paper]](https://arxiv.org/abs/2209.09513)
 - [2019/10] Relay Policy Learning: Solving Long-Horizon Tasks via Imitation and Reinforcement Learning | [[Paper]](https://arxiv.org/abs/1910.11956)
 - [2023/04] Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback | [[Paper]](https://arxiv.org/abs/2304.10750)
-- [2021/01] Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies | [[Paper]](https://arxiv.org/abs/2101.02235#:~:text=In this work%2C we introduce StrategyQA%2C a question,question%2C and should be inferred using a strategy.)
+- [2021/01] Did Aristotle Use a Laptop? A Question Answering Benchmark with Implicit Reasoning Strategies | [[Paper]]
 - [2018/09] HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering | [[Paper]](https://arxiv.org/abs/1809.09600)
 - [2021/07] Evaluating large language models trained on code | [[Paper]]
 - [2021/08] Program synthesis with large language models | [[Paper]](https://arxiv.org/abs/2108.07732))
