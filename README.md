@@ -4,7 +4,7 @@ This project lists the files related to the Feedback Mechanisms of LLM_based AI 
 
 ## 🔥 Updates
 
-- [09/2025] Congratulation! 🔥 Our work has been accepted by IJCAI2025 [A Survey on the Feedback Mechanism of LLM-based AI Agents](https://www.ijcai.org/proceedings/2025/1175) 🔥 paper accepted
+- [09/2025] Congratulation! 🔥 Our work has been accepted by **IJCAI2025** [A Survey on the Feedback Mechanism of LLM-based AI Agents](https://www.ijcai.org/proceedings/2025/1175) 🔥 paper accepted
 - [05/2025] Create 🔥[Feedback-Mechanisms-for-LLM_based-AI-Agents]([https://github.com/kevinson7515/VC-Bench](https://github.com/kevinson7515/Agents-Feedback-Mechanisms)))🔥 repository
 
 
